@@ -7,14 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D4788D41EC4A228004B6240 /* DrinkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D4788D31EC4A228004B6240 /* DrinkViewController.swift */; };
+		1D4788D61EC4B9A9004B6240 /* BMRViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D4788D51EC4B9A9004B6240 /* BMRViewController.swift */; };
+		1D51BD7E1ED2DF5E00890023 /* PPOD.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D51BD7D1ED2DF5E00890023 /* PPOD.png */; };
+		1D51BD881ED2DF8300890023 /* woman-drinking-water.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D51BD7F1ED2DF8300890023 /* woman-drinking-water.jpg */; };
+		1D51BD891ED2DF8300890023 /* work.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D51BD801ED2DF8300890023 /* work.jpg */; };
+		1D51BD8A1ED2DF8300890023 /* fitness.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D51BD811ED2DF8300890023 /* fitness.jpg */; };
+		1D51BD8B1ED2DF8300890023 /* drink2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D51BD821ED2DF8300890023 /* drink2.jpg */; };
+		1D51BD8C1ED2DF8300890023 /* ghost-rider-featured.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D51BD831ED2DF8300890023 /* ghost-rider-featured.jpg */; };
+		1D51BD8D1ED2DF8300890023 /* bmr.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D51BD841ED2DF8300890023 /* bmr.jpg */; };
+		1D51BD8E1ED2DF8300890023 /* burn2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D51BD851ED2DF8300890023 /* burn2.png */; };
+		1D51BD8F1ED2DF8300890023 /* Basal-Metabolic-Rate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D51BD861ED2DF8300890023 /* Basal-Metabolic-Rate.jpg */; };
+		1D51BD901ED2DF8300890023 /* BMI-Chart-for-Men.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D51BD871ED2DF8300890023 /* BMI-Chart-for-Men.jpg */; };
+		1D6325DF1EACED62003CB655 /* BmiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6325DE1EACED62003CB655 /* BmiModel.swift */; };
 		1D66E2C61EAA1744001B3C8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D66E2C51EAA1744001B3C8F /* AppDelegate.swift */; };
 		1D66E2C81EAA1744001B3C8F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D66E2C71EAA1744001B3C8F /* ViewController.swift */; };
 		1D66E2CB1EAA1744001B3C8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D66E2C91EAA1744001B3C8F /* Main.storyboard */; };
 		1D66E2CD1EAA1744001B3C8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D66E2CC1EAA1744001B3C8F /* Assets.xcassets */; };
 		1D66E2D01EAA1744001B3C8F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D66E2CE1EAA1744001B3C8F /* LaunchScreen.storyboard */; };
+		1D66E2F01EACAC0A001B3C8F /* BMIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D66E2EF1EACAC0A001B3C8F /* BMIViewController.swift */; };
+		1DFFCC4A1EC8D57D009FEFA7 /* BMR0ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DFFCC491EC8D57D009FEFA7 /* BMR0ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D4788D31EC4A228004B6240 /* DrinkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrinkViewController.swift; sourceTree = "<group>"; };
+		1D4788D51EC4B9A9004B6240 /* BMRViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BMRViewController.swift; sourceTree = "<group>"; };
+		1D51BD7D1ED2DF5E00890023 /* PPOD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PPOD.png; sourceTree = "<group>"; };
+		1D51BD7F1ED2DF8300890023 /* woman-drinking-water.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "woman-drinking-water.jpg"; sourceTree = "<group>"; };
+		1D51BD801ED2DF8300890023 /* work.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = work.jpg; sourceTree = "<group>"; };
+		1D51BD811ED2DF8300890023 /* fitness.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fitness.jpg; sourceTree = "<group>"; };
+		1D51BD821ED2DF8300890023 /* drink2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = drink2.jpg; sourceTree = "<group>"; };
+		1D51BD831ED2DF8300890023 /* ghost-rider-featured.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ghost-rider-featured.jpg"; sourceTree = "<group>"; };
+		1D51BD841ED2DF8300890023 /* bmr.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bmr.jpg; sourceTree = "<group>"; };
+		1D51BD851ED2DF8300890023 /* burn2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = burn2.png; sourceTree = "<group>"; };
+		1D51BD861ED2DF8300890023 /* Basal-Metabolic-Rate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Basal-Metabolic-Rate.jpg"; sourceTree = "<group>"; };
+		1D51BD871ED2DF8300890023 /* BMI-Chart-for-Men.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "BMI-Chart-for-Men.jpg"; sourceTree = "<group>"; };
+		1D6325DE1EACED62003CB655 /* BmiModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BmiModel.swift; sourceTree = "<group>"; };
 		1D66E2C21EAA1744001B3C8F /* Health Calculator 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Health Calculator 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D66E2C51EAA1744001B3C8F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1D66E2C71EAA1744001B3C8F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +50,8 @@
 		1D66E2CC1EAA1744001B3C8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D66E2CF1EAA1744001B3C8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D66E2D11EAA1744001B3C8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D66E2EF1EACAC0A001B3C8F /* BMIViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BMIViewController.swift; path = ../BMIViewController.swift; sourceTree = "<group>"; };
+		1DFFCC491EC8D57D009FEFA7 /* BMR0ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BMR0ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +87,24 @@
 				1D66E2C51EAA1744001B3C8F /* AppDelegate.swift */,
 				1D66E2C71EAA1744001B3C8F /* ViewController.swift */,
 				1D66E2C91EAA1744001B3C8F /* Main.storyboard */,
+				1D4788D51EC4B9A9004B6240 /* BMRViewController.swift */,
+				1DFFCC491EC8D57D009FEFA7 /* BMR0ViewController.swift */,
+				1D4788D31EC4A228004B6240 /* DrinkViewController.swift */,
+				1D6325DE1EACED62003CB655 /* BmiModel.swift */,
+				1D66E2EF1EACAC0A001B3C8F /* BMIViewController.swift */,
 				1D66E2CC1EAA1744001B3C8F /* Assets.xcassets */,
 				1D66E2CE1EAA1744001B3C8F /* LaunchScreen.storyboard */,
 				1D66E2D11EAA1744001B3C8F /* Info.plist */,
+				1D51BD7D1ED2DF5E00890023 /* PPOD.png */,
+				1D51BD7F1ED2DF8300890023 /* woman-drinking-water.jpg */,
+				1D51BD801ED2DF8300890023 /* work.jpg */,
+				1D51BD811ED2DF8300890023 /* fitness.jpg */,
+				1D51BD821ED2DF8300890023 /* drink2.jpg */,
+				1D51BD831ED2DF8300890023 /* ghost-rider-featured.jpg */,
+				1D51BD841ED2DF8300890023 /* bmr.jpg */,
+				1D51BD851ED2DF8300890023 /* burn2.png */,
+				1D51BD861ED2DF8300890023 /* Basal-Metabolic-Rate.jpg */,
+				1D51BD871ED2DF8300890023 /* BMI-Chart-for-Men.jpg */,
 			);
 			path = "Health Calculator 3";
 			sourceTree = "<group>";
@@ -123,8 +168,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D51BD8F1ED2DF8300890023 /* Basal-Metabolic-Rate.jpg in Resources */,
 				1D66E2D01EAA1744001B3C8F /* LaunchScreen.storyboard in Resources */,
+				1D51BD8A1ED2DF8300890023 /* fitness.jpg in Resources */,
 				1D66E2CD1EAA1744001B3C8F /* Assets.xcassets in Resources */,
+				1D51BD901ED2DF8300890023 /* BMI-Chart-for-Men.jpg in Resources */,
+				1D51BD8E1ED2DF8300890023 /* burn2.png in Resources */,
+				1D51BD8B1ED2DF8300890023 /* drink2.jpg in Resources */,
+				1D51BD7E1ED2DF5E00890023 /* PPOD.png in Resources */,
+				1D51BD8C1ED2DF8300890023 /* ghost-rider-featured.jpg in Resources */,
+				1D51BD881ED2DF8300890023 /* woman-drinking-water.jpg in Resources */,
+				1D51BD8D1ED2DF8300890023 /* bmr.jpg in Resources */,
+				1D51BD891ED2DF8300890023 /* work.jpg in Resources */,
 				1D66E2CB1EAA1744001B3C8F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,8 +191,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D4788D61EC4B9A9004B6240 /* BMRViewController.swift in Sources */,
+				1D6325DF1EACED62003CB655 /* BmiModel.swift in Sources */,
+				1D66E2F01EACAC0A001B3C8F /* BMIViewController.swift in Sources */,
 				1D66E2C81EAA1744001B3C8F /* ViewController.swift in Sources */,
 				1D66E2C61EAA1744001B3C8F /* AppDelegate.swift in Sources */,
+				1D4788D41EC4A228004B6240 /* DrinkViewController.swift in Sources */,
+				1DFFCC4A1EC8D57D009FEFA7 /* BMR0ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +357,7 @@
 				1D66E2D61EAA1744001B3C8F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
